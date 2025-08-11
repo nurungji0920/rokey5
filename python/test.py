@@ -1,3 +1,3 @@
 print('hello gift!!')
 print('hi!!!!!!')
-print('thanks @@@@')
+print('thanks ^^')
