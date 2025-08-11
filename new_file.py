@@ -1,1 +1,0 @@
-print('VScode 새 파일')
